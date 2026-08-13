@@ -1,3 +1,13 @@
+<p align="center">
+  <img
+    src="./assets/github-profile-banner.png"
+    alt="Durga Praveen - AI and Full-Stack Developer"
+    width="100%"
+  />
+</p>
+
+<br />
+
 <div align="center">
   <h1>Hi, I'm Durga Praveen 👋</h1>
   <h3>Full-Stack Developer • Backend Engineer • AI Builder</h3>
